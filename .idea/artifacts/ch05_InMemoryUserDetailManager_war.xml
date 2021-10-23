@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch05-InMemoryUserDetailManager:war">
+    <output-path>$PROJECT_DIR$/ch05-InMemoryUserDetailManager/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch05-InMemoryUserDetailManager</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch05-InMemoryUserDetailManager-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch05-InMemoryUserDetailManager:war exploded" />
+    </root>
+  </artifact>
+</component>
